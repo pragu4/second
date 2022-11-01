@@ -29,7 +29,7 @@ stages:
           Org: "ad361968trial"
           Space: "dev"
           credentialsId: "cfdeploy"
-          appName: "Risk"
+          appName: "second"
         mtaDeployParameters: "-f --version-rule ALL"
     artifactPrepareVersion:
         versioningType: "cloud_noTag"
