@@ -2,7 +2,7 @@
 
 Welcome to your new project.
 
-It contains as these folders and files, following our recommended project layout:
+It contains these folders and files, following our recommended project layout:
 
 File or Folder | Purpose
 ---------|----------
